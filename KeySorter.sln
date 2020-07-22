@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeySorter", "KeySorter\KeySorter.csproj", "{8B3AC8E2-A2CE-4B65-BFC1-EF0749259AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B3AC8E2-A2CE-4B65-BFC1-EF0749259AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3AC8E2-A2CE-4B65-BFC1-EF0749259AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3AC8E2-A2CE-4B65-BFC1-EF0749259AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3AC8E2-A2CE-4B65-BFC1-EF0749259AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B083A5BA-9408-45E4-AB2E-243CE8F5A7F0}
+	EndGlobalSection
+EndGlobal
